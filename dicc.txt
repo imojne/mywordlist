@@ -10,6 +10,7 @@ _
 #
 0
 .0
+/java/
 /api/proxy
 /swagger-ui 
 /demo 
@@ -22,6 +23,7 @@ _
 02
 03
 /admin/help.cgi
+/service?Wsdl
 /admin/help.cgi.bak
 /admin/WS_FTP.LOG
 /adovbs.inc
@@ -43,6 +45,7 @@ _
 /adminer.sql
 /altair
 /api/batch
+/adminer/
 /api/proxy
 /application.wadl
 /beans
@@ -670,6 +673,7 @@ AddressBookW2JE/services/AddressBook/wsdl/
 addresses
 addtocart
 /adfs/discovery/keys
+/dev
 /adfs/ls
 /adfs/ls/federationmetadata/2007-06/federationmetadata.xml
 /adfs/oauth2/authorize/
@@ -5854,6 +5858,7 @@ facts
 faculty
 fadmin
 f___admin
+/test
 fail
 failed
 failure
@@ -14605,6 +14610,7 @@ tooltip
 ~toor
 top
 top1
+/data.txt
 /top.html
 topic
 topicadmin
@@ -16501,7 +16507,10 @@ zf_backend.php
 .zfs/
 zh
 zh-cn
+/backup.sql
 zh_CN
+/api/proxy?url=  
+/api/payment?id=
 zh-tw
 zh_TW
 zimbra

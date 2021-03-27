@@ -10,6 +10,10 @@ _
 #
 0
 .0
+/api/proxy
+/swagger-ui 
+/demo 
+/metrics
 00
 /000003.log
 /000006.log

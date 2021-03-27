@@ -16,6 +16,7 @@ _
 /demo 
 /dasbhoard/
 /metrics
+/nagiosxi
 00
 /000003.log
 /000006.log

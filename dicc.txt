@@ -38,6 +38,7 @@ _
 05
 06
 /_legacy
+/nrotc/Trace.axd
 /codeception.yml
 /activity
 /actuator

@@ -32,6 +32,14 @@ _
 /default.asp.bak
 /login.asp.bak 
 04
+robots.txt../admin/
+robots.txt..;/
+robots.txt..%3B/
+robots.txt%2e%2e%3B/
+robots.txt/../admin/
+robots.txt/..;/
+robots.txt/..%3B/
+robots.txt/%2e%2e%3
 /rcAdmin
 /js/routing
 /debug/pprof/

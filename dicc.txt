@@ -50,7 +50,9 @@ robots.txt/%2e%2e%3
 /codeception.yml
 /activity
 /actuator
-/actuator/heapdump
+..;a=a/
+%2e%2e%3Ba=a
+ /actuator/heapdump
 /admin/heapdump
 /adminer.sql
 /altair

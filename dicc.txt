@@ -1,6 +1,5 @@
 
 ~/
-_
 ;
 ;/
 ;/..;/
@@ -17,6 +16,7 @@ _
 /dasbhoard/
 /metrics
 /nagiosxi
+/api/application.wadl 
 00
 /000003.log
 /000006.log

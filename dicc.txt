@@ -10,6 +10,7 @@
 0
 .0
 /java/
+mysql.initial.sql
 /api/proxy
 /swagger-ui 
 /demo 

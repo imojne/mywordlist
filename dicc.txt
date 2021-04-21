@@ -10,6 +10,8 @@
 0
 .0
 /java/
+/-/snippets 
+/-/sippets 
 mysql.initial.sql
 /api/proxy
 /swagger-ui 

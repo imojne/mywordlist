@@ -28,6 +28,7 @@ mysql.initial.sql
 03
 /admin/help.cgi
 /service?Wsdl
+plesk-stat/
 /admin/help.cgi.bak
 /admin/WS_FTP.LOG
 /adovbs.inc

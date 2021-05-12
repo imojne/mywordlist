@@ -33,6 +33,8 @@ mysql.initial.sql
 /api/v1/canal/config/1/1
 /000003.log
 /000006.log
+/js/routing
+/js/routing?callback=fos.Router.setData
 /docker-compose.override.yml
 /docker-compose-dev.yml
 /docker-compose.dev.yml

@@ -3,6 +3,7 @@
 ;
 ;/
 ;/..;/
+WEB-INF/classes/ 
 ..;/
 ..;/..;/
 airflow.cfg

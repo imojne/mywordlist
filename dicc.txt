@@ -210,6 +210,7 @@ getStatus/1UTF/Payment/get
 15
 16
 /static../.git/config
+/prweb/PRRestService/unauthenticatedAPI/v1/docs
 headerService/
 /js../.git/config
 /images../.git/config

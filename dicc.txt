@@ -127,7 +127,7 @@ robots.txt/%2e%2e%3
 /api/batch
 /adminer/
 /perl-status
-}/static../.git/config
+/static../.git/config
 /js../.git/config
 /images../.git/config
 /img../.git/config
@@ -139,6 +139,7 @@ robots.txt/%2e%2e%3
 .bzr/branch/branch.conf
 /media../.git/config
 /lib../.git/config
+/solr/users
 /.svn/entries
 /.svn/prop-base/
 /.svn/text-base/

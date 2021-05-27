@@ -2,6 +2,7 @@
 ~/
 ;
 ;/
+debug.php 
 ;/..;/
 WEB-INF/classes/ 
 ..;/

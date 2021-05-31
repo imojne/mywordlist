@@ -15,6 +15,7 @@ airflow.cfg
 /java/
 /elmah.axd
 /-/snippets 
+/django/next/admin/dashboard
 /-/sippets 
 /awstats/
 /awstats.conf

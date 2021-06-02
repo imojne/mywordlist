@@ -3,6 +3,7 @@
 ;
 ;/
 debug.php 
+wp-admin/setup-config.php?step=1 
 ;/..;/
 WEB-INF/classes/ 
 ..;/

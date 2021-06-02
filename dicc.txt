@@ -29,6 +29,7 @@ mysql.initial.sql
 /logs/awstats.pl
 /webstats/awstats.pl
 /demo 
+/cgi-bin/status 
 /dasbhoard/
 /metrics
 /nagiosxi

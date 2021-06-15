@@ -43,3 +43,4 @@ X-True-IP: 127.0.0.1
 X-UserId: 23485323
 X-UserProPlan: 
 X-UserPerm: { "can_create_streams": 1, "is_streams_admin": 1 }
+content-type to multipart/* on api mybae disclouse file and paths

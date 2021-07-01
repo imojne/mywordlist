@@ -1,5 +1,6 @@
 
 ~/
+/dbconsole/
 ;
 ;/
 debug.php 

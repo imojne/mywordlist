@@ -1,4 +1,5 @@
 Base-Url: 127.0.0.1
+X-ProxyUser-Ip:127.0.0.1
 Client-IP: 127.0.0.1
 Http-Url: 127.0.0.1
 Proxy-Host: 127.0.0.1
